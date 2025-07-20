@@ -173,3 +173,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - shadcn-ui for the beautiful UI components
 - Firebase for authentication and database services
 - The React community for their amazing tools and libraries
+
+  ## Contributors
+
+- [Meghashree-V](https://github.com/Meghashree-V)
+- [GarvLakhina](https://github.com/GarvLakhina)
+- [Jitesh050](https://github.com/Jitesh050)
+- [nehakaruna](https://github.com/nehakaruna)
+
