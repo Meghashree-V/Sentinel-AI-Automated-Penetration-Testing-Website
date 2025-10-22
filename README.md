@@ -77,7 +77,7 @@ Sentinal-AI is a comprehensive cybersecurity scanning and monitoring platform de
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/GarvLakhina/Sentinal-AI.git
+   git clone [https://github.com/Meghashree-V/Sentinel-AI-Automated-Penetration-Testing-Website.git]
    cd Sentinal-AI
    ```
 
